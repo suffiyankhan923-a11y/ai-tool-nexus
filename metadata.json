@@ -1,0 +1,6 @@
+{
+  "name": "AI Nexus",
+  "description": "Discover the best AI tools shaping the future. A premium directory, reviews, and insights platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,5 @@
+# AI Nexus robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://ai-nexus.pages.dev/sitemap.xml
